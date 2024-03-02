@@ -11,7 +11,7 @@ class Me {
             "Make technology accessible to those with disabilities",
             "Build something sick in Swift"
         };
-        string workGitHub = "https://github.com/michellemcgowan";              
+        string professionalGitHub = "https://github.com/michellemcgowan";              
 }
 ```
 
